@@ -1,4 +1,4 @@
-# ![Screenshot 2023-09-21 180737](https://github.com/ibrahim12121233/classroom/assets/136247208/045ce19a-0f6b-4595-83ce-ba0708c3ab90)# classroom
+# ![Screenshot 2023-09-21 180737] classroom
 
 # Important Notices <!-- omit in toc -->
 
